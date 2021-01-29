@@ -1,6 +1,6 @@
 # courses
 
-**Strings**
+**Strings** + **Test System**
 
     Tests result: all tests were passed
     Mark: 4 bytes
