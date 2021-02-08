@@ -44,3 +44,4 @@ SolutionBinaryExpansionOfExponent  | 0.00s | 0.00s | 0.00s
     Duration: ~2 hour
     Run test: go test ./tasks/fibo -count 1 -v
 
+**Prime numbers** - skipped 
